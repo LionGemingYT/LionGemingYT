@@ -15,11 +15,13 @@
 
 - 💻 I'm currently learning `JavaScript` And `python`.
 
+- 🎧 I'm Likes to play songs.
+
 - 🤓 I'm a copy paste master.
 
 - 📝 Thanks To [`My Self`](https://github.com/LionGamingYT-acc).
 
-- 🎩 Thanks To Everyone Who Supports Me.
+- 🎩 And Thanks To Everyone Who Supports Me.
 
 - Languages: &nbsp;
  
