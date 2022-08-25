@@ -10,3 +10,18 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/LionGamingYT_user)
 [<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://youtube.com/channel/UCbPD6WnYyXsS5EWNlc-XRVw)
 [<img src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/LionGamingYT-acc)
+
+### I &nbsp;Personal Stuffs
+
+- 💻 I'm currently learning `JavaScript` ⚗.
+
+- 🤓 I'm a copy paste master.
+
+- 🔭 I'm trying to set a record, watching anime 1 season in a day.
+
+- 📝 Thanks To [`My Self`](https://github.com/KiZakiXd).
+
+- 🎩 Thanks To All Mastah.
+
+- Languages: &nbsp;
+ 
