@@ -13,11 +13,9 @@
 
 ### I &nbsp;Personal Stuffs
 
-- 💻 I'm currently learning `JavaScript` ⚗.
+- 💻 I'm currently learning `JavaScript`,`Java`,`python`.
 
 - 🤓 I'm a copy paste master.
-
-- 🔭 I'm trying to set a record, watching anime 1 season in a day.
 
 - 📝 Thanks To [`My Self`](https://github.com/LionGamingYT-acc).
 
