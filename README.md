@@ -13,13 +13,13 @@
 
 ### I &nbsp;Personal Stuffs
 
-- 💻 I'm currently learning `JavaScript`,`Java`,`python`.
+- 💻 I'm currently learning `JavaScript` And `python`.
 
 - 🤓 I'm a copy paste master.
 
 - 📝 Thanks To [`My Self`](https://github.com/LionGamingYT-acc).
 
-- 🎩 Thanks To All Mastah.
+- 🎩 Thanks To Everyone Who Supports Me.
 
 - Languages: &nbsp;
  
@@ -35,13 +35,13 @@
 
 <p align="center">
 
-  <a href="https://github.com/LionGamingYT-acc"><img src="https://github-readme-stats.vercel.app/api?username=KiZakiXD&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/LionGamingYT-acc"><img src="https://github-readme-stats.vercel.app/api?username=LionGamingYT-acc&theme=tokyonight&show_icons=true" /></a>
 
 </p>
 
 <p align="center">
 
-  <a href="https://github.com/LionGamingYT-acc"><img src="https://github-readme-streak-stats.herokuapp.com?user=KiZakiXD&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/LionGamingYT-acc"><img src="https://github-readme-streak-stats.herokuapp.com?user=LionGamingYT-acc&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 
 </p>
 
