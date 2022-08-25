@@ -4,4 +4,4 @@
 
 <p align="center">
 
-<img src="https://i.ibb.co/StYpMQt/null-20211216-WA0102.jpg" width="100%" alt="API Giphy logo"/>
+<img src="https://ibb.co/t2C7npj" width="100%" alt="API Giphy logo"/>
