@@ -19,7 +19,7 @@
 
 - 🤓 I'm a copy paste master.
 
-- 📝 Thanks To [`My Self`](https://github.com/LionGamingYT-acc).
+- 📝 Thanks To [`My Self`](https://github.com/LionGemingYT).
 
 - 🎩 And Thanks To Everyone Who Supports Me.
 
@@ -37,14 +37,14 @@
 
 <p align="center">
 
-  <a href="https://github.com/LionGamingYT-acc"><img src="https://github-readme-stats.vercel.app/api?username=LionGamingYT-acc&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/LionGamingYT"><img src="https://github-readme-stats.vercel.app/api?username=LionGamingYT&theme=tokyonight&show_icons=true" /></a>
 
 </p>
 
 <p align="center">
 
-  <a href="https://github.com/LionGamingYT-acc"><img src="https://github-readme-streak-stats.herokuapp.com?user=LionGamingYT-acc&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/LionGamingYT"><img src="https://github-readme-streak-stats.herokuapp.com?user=LionGamingYT-acc&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 
 <p align="center">
 
-  <a href="https://github.com/LionGamingYT-acc"><img src="https://github-profile-trophy.vercel.app/?username=LionGamingYT-acc&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/LionGamingYT"><img src="https://github-profile-trophy.vercel.app/?username=LionGamingYT-acc&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
